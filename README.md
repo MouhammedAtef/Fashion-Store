@@ -7,7 +7,7 @@ Designed for scalability and security, this API serves as the backend for a mode
 
 ---
 
-## 🔧 Features
+## Features
 
 - **JWT Authentication & Authorization** (User roles: Admin / Customer)
 - **Product Management** (CRUD operations, categories, filters)
@@ -18,12 +18,12 @@ Designed for scalability and security, this API serves as the backend for a mode
 
 
 
-**Tech Stack**
+## Tech Stack
 
-- Backend: ASP.NET Core Web API
+- **Backend: ASP.NET Core Web API**
 
-- Database: SQL Server (Entity Framework Core)
+- **Database: SQL Server (Entity Framework Core)**
 
-- Authentication: JWT Bearer Tokens
+- **Authentication: JWT Bearer Tokens**
 
-- Payment: Stripe API (or other providers)
+- **Payment: Stripe API (or other providers)**
